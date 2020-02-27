@@ -1,2 +1,2 @@
-# companion-module-novastar-mctrl4k-controllers
+# companion-module-novastar-NovaproHD-controllers
 See HELP.md and LICENSE
